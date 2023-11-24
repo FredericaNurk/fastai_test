@@ -1,2 +1,4 @@
-# fastai_test
-Having a look at fastai
+# fastai sandbox
+
+This repo is used for testing and general understanding of the fastai code, tutorials and examples
+
